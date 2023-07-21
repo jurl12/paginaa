@@ -1,0 +1,25 @@
+div{
+  padding: 20px;
+  background-color: rgb(202, 197, 197);
+  width: 300px;
+  display: flex;
+  justify-content:space-between;
+  height: 36px;
+  text-align: center;
+  margin: 3px;
+  
+}
+
+div button{
+  border: none;
+  width: 100px;
+  padding: 10px 10px;
+  height: 35px;
+  
+}
+
+div p{
+  text-align: center;
+  
+  
+}

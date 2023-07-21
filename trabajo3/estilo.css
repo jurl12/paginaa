@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+div{
+  padding: 20px 20px 20px 20px;
+  background-color:rgb(215, 215, 215);
+  width: 450px;
+ height: 250px;
+}
+
+div h1{
+  text-align:justify ;
+  height: 90px;
+  padding: 0px 0px 5px;
+}

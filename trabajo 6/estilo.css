@@ -1,0 +1,65 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #93d9e9;
+}
+
+div{
+    
+    height: 480px;
+    width: 25%;
+    background-color: white;
+    margin:1.5cm 20px ;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 0px rgb(184, 183, 183);
+   
+}
+
+article{
+    background-color: salmon;
+    height: 2cm;
+    padding: 20px;
+  border-radius: 10px 10px 0px 0px;
+    
+}
+
+p{
+    text-align: center;
+    margin-top:1cm;
+    /* height: 12px; */
+    padding-bottom: 3px;
+
+}
+
+h2{
+    text-align: center;
+}
+
+.caja1{
+    position: absolute;
+    left: 10%;
+    
+}
+.caja2{
+    position: absolute;
+    left: 36%;
+    
+}
+.caja3{
+    position: absolute;
+    left: 62%;
+    
+}
+button{
+    height: 45px;
+    width: 110px;
+    text-align: center;
+    font-size: cover;
+    position: absolute;
+    top: 87%;
+    left: 34%;
+}
